@@ -1,0 +1,16 @@
+D:\Учеба GB\Csharping\homework_1\task_41_43\obj\Debug\net6.0\task_41_43.GlobalUsings.g.cs
+D:\Учеба GB\Csharping\homework_1\task_41_43\obj\Debug\net6.0\task_41_43.csproj.AssemblyReference.cache
+D:\Учеба GB\Csharping\homework_1\task_41_43\obj\Debug\net6.0\task_41_43.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учеба GB\Csharping\homework_1\task_41_43\obj\Debug\net6.0\task_41_43.AssemblyInfoInputs.cache
+D:\Учеба GB\Csharping\homework_1\task_41_43\obj\Debug\net6.0\task_41_43.AssemblyInfo.cs
+D:\Учеба GB\Csharping\homework_1\task_41_43\obj\Debug\net6.0\task_41_43.csproj.CoreCompileInputs.cache
+D:\Учеба GB\Csharping\homework_1\task_41_43\bin\Debug\net6.0\task_41_43.exe
+D:\Учеба GB\Csharping\homework_1\task_41_43\bin\Debug\net6.0\task_41_43.deps.json
+D:\Учеба GB\Csharping\homework_1\task_41_43\bin\Debug\net6.0\task_41_43.runtimeconfig.json
+D:\Учеба GB\Csharping\homework_1\task_41_43\bin\Debug\net6.0\task_41_43.dll
+D:\Учеба GB\Csharping\homework_1\task_41_43\bin\Debug\net6.0\ref\task_41_43.dll
+D:\Учеба GB\Csharping\homework_1\task_41_43\bin\Debug\net6.0\task_41_43.pdb
+D:\Учеба GB\Csharping\homework_1\task_41_43\obj\Debug\net6.0\task_41_43.dll
+D:\Учеба GB\Csharping\homework_1\task_41_43\obj\Debug\net6.0\ref\task_41_43.dll
+D:\Учеба GB\Csharping\homework_1\task_41_43\obj\Debug\net6.0\task_41_43.pdb
+D:\Учеба GB\Csharping\homework_1\task_41_43\obj\Debug\net6.0\task_41_43.genruntimeconfig.cache
