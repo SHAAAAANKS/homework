@@ -1,4 +1,4 @@
-﻿Console.Write("Введите номер задания: ");
+﻿Console.Write("Введите номер задания(41/43): ");
 int task = Convert.ToInt32(Console.ReadLine());
 switch (task)
 {
@@ -34,18 +34,29 @@ switch (task)
         break;
 
     case 43:
+        //честно говоря, я, кажется, забыл вообще всю математику и до сих пор не понимаю как работают формулы, которые я использовал
 
         Console.Write("Введите b1: ");
-        int b1 = Convert.ToInt32(Console.ReadLine());
+        double b1 = Convert.ToDouble(Console.ReadLine());
         Console.Write("Введите k1: ");
-        int k1 = Convert.ToInt32(Console.ReadLine());
+        double k1 = Convert.ToDouble(Console.ReadLine());
         Console.Write("Введите b2: ");
-        int b2 = Convert.ToInt32(Console.ReadLine());
+        double b2 = Convert.ToDouble(Console.ReadLine());
         Console.Write("Введите k2: ");
-        int k2 = Convert.ToInt32(Console.ReadLine());
+        double k2 = Convert.ToDouble(Console.ReadLine());
 
+        double x = (b2 - b1) / (k1 - k2);
+        Console.WriteLine(x);
+        
+        double y = k1 * x + b1;
+
+        Console.WriteLine(y);
+
+        //b1 = 2, k1 = 5, b2 = 4, k2 = 9
         //y = k1 * x + b1, y = k2 * x + b2
 
+        Console.WriteLine( $"({x}; {y})");
+        break;
 
 
     default:
