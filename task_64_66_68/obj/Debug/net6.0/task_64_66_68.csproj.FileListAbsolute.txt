@@ -1,0 +1,16 @@
+D:\Учеба GB\Csharping\homework_1\task_64_66_68\obj\Debug\net6.0\task_64_66_68.GlobalUsings.g.cs
+D:\Учеба GB\Csharping\homework_1\task_64_66_68\obj\Debug\net6.0\task_64_66_68.csproj.AssemblyReference.cache
+D:\Учеба GB\Csharping\homework_1\task_64_66_68\obj\Debug\net6.0\task_64_66_68.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учеба GB\Csharping\homework_1\task_64_66_68\obj\Debug\net6.0\task_64_66_68.AssemblyInfoInputs.cache
+D:\Учеба GB\Csharping\homework_1\task_64_66_68\obj\Debug\net6.0\task_64_66_68.AssemblyInfo.cs
+D:\Учеба GB\Csharping\homework_1\task_64_66_68\obj\Debug\net6.0\task_64_66_68.csproj.CoreCompileInputs.cache
+D:\Учеба GB\Csharping\homework_1\task_64_66_68\bin\Debug\net6.0\task_64_66_68.exe
+D:\Учеба GB\Csharping\homework_1\task_64_66_68\bin\Debug\net6.0\task_64_66_68.deps.json
+D:\Учеба GB\Csharping\homework_1\task_64_66_68\bin\Debug\net6.0\task_64_66_68.runtimeconfig.json
+D:\Учеба GB\Csharping\homework_1\task_64_66_68\bin\Debug\net6.0\task_64_66_68.dll
+D:\Учеба GB\Csharping\homework_1\task_64_66_68\bin\Debug\net6.0\ref\task_64_66_68.dll
+D:\Учеба GB\Csharping\homework_1\task_64_66_68\bin\Debug\net6.0\task_64_66_68.pdb
+D:\Учеба GB\Csharping\homework_1\task_64_66_68\obj\Debug\net6.0\task_64_66_68.dll
+D:\Учеба GB\Csharping\homework_1\task_64_66_68\obj\Debug\net6.0\ref\task_64_66_68.dll
+D:\Учеба GB\Csharping\homework_1\task_64_66_68\obj\Debug\net6.0\task_64_66_68.pdb
+D:\Учеба GB\Csharping\homework_1\task_64_66_68\obj\Debug\net6.0\task_64_66_68.genruntimeconfig.cache
