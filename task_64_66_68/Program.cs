@@ -53,14 +53,36 @@ switch (task)
     break;
 
     case 68:
-    // Задача 68: Напишите программу вычисления функции Аккермана с помощью рекурсии. Даны два неотрицательных числа m и n.
-    // m = 2, n = 3 -> A(m,n) = 9
-    // m = 3, n = 2 -> A(m,n) = 29
+// Задача 68: Напишите программу вычисления функции Аккермана с помощью рекурсии. Даны два неотрицательных числа m и n.
+// m = 2, n = 3 -> A(m,n) = 9
+// m = 3, n = 2 -> A(m,n) = 29
 
     Console.Write("Введите m: ");
         int num1 = Convert.ToInt32(Console.ReadLine());
         Console.Write("Введите n: ");
         int num2 = Convert.ToInt32(Console.ReadLine());
+
+// Если m = 0, то A(m, n) = n + 1.
+// Если m > 0 и n = 0, то A(m, n) = A(m - 1, 1).
+// Если m > 0 и n > 0, то A(m, n) = A(m - 1, A(m, n - 1)).
+    int Akkerman(int m, int n)
+    {
+        if (m == 0) return n + 1;
+        else if (m > 0 && n == 0) 
+        {
+            return Akkerman(m - 1, 1);
+        }
+
+        else if (m > 0 && n > 0)
+        { 
+            return Akkerman(m - 1, Akkerman(m, n - 1));
+        }
+        else return 0;
+    }
+
+        if (Akkerman(num1,num2) == 0) Console.WriteLine("Входные данные некорректны.");
+        else Console.WriteLine(Akkerman(num1, num2));
+
 
 
     break;
